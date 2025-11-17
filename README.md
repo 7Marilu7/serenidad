@@ -68,8 +68,6 @@ Cloud Firestore: almacenamiento de estados de ánimo, recursos y perfiles.
 
 Firebase Storage: manejo de archivos y contenido multimedia.
 
-8. Licencia.
-Proyecto académico desarrollado como parte del módulo de desarrollo móvil. Incluye código original diseñado por el equipo.
 8. Licencia
 
 Proyecto académico desarrollado como parte del módulo de desarrollo móvil. Incluye código original diseñado por el equipo.
