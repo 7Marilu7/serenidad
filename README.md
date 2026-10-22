@@ -1,4 +1,4 @@
-####Serenidad:
+#### Serenidad:
 
 Aplicación móvil de bienestar emocional que permite registrar el estado de ánimo, realizar ejercicios de respiración, acceder a meditaciones guiadas y consultar el progreso personal.
 
